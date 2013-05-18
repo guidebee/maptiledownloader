@@ -1,0 +1,643 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:JavaBinaryReader.cs" caret="53" fromTop="3" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/d:Drawing/f:NETImage.cs" caret="1852" fromTop="11" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:Program.cs" caret="465" fromTop="17" />
+      <File id="CBDB3374-5408-4888-B93D-6F3E63E321D9/f:IWritingProgress.cs" caret="174" fromTop="7" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/f:MapLayer.cs" caret="8156" fromTop="2" />
+      <File id="C95613A8-BE8D-4092-BCCC-FE36FB3C1457/f:MapTileIndex.cs" caret="0" fromTop="0" />
+      <File id="CBDB3374-5408-4888-B93D-6F3E63E321D9/f:app.config" caret="2772" fromTop="26" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapType.cs" caret="11804" fromTop="7" />
+      <File id="CBDB3374-5408-4888-B93D-6F3E63E321D9/f:MapTileWriter.cs" caret="2457" fromTop="8" />
+      <File id="7D753343-121C-414F-A9EA-CBEDC302B03F/f:IRequestListener.cs" caret="4666" fromTop="8" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Geometry/f:GeoPoint.cs" caret="13595" fromTop="14" />
+      <File id="80910357-0D91-47CF-B0C4-6D7678003687/f:MathEx.cs" caret="69" fromTop="4" />
+      <File id="80910357-0D91-47CF-B0C4-6D7678003687/f:DataReader.cs" caret="934" fromTop="18" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapTileDownloadManager.cs" caret="17640" fromTop="9" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:RasterMap.cs" caret="2600" fromTop="11" />
+      <File id="7D753343-121C-414F-A9EA-CBEDC302B03F/f:Request.cs" caret="0" fromTop="0" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:app.config" caret="0" fromTop="0" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapTileDownloader.cs" caret="7059" fromTop="38" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="8434" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapTileDownloader.cs" caret="5462" fromTop="13" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapTileDownloader.cs" caret="5560" fromTop="15" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapTileDownloader.cs" caret="2621" fromTop="2" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapTileDownloader.cs" caret="3281" fromTop="17" />
+      <File id="7D753343-121C-414F-A9EA-CBEDC302B03F/f:Request.cs" caret="14261" fromTop="12" />
+      <File id="7D753343-121C-414F-A9EA-CBEDC302B03F/f:Request.cs" caret="24272" fromTop="12" />
+      <File id="CBDB3374-5408-4888-B93D-6F3E63E321D9/f:MapTileWriter.cs" caret="4845" fromTop="7" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapType.cs" caret="5820" fromTop="11" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:app.config" caret="452" fromTop="5" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:app.config" caret="2162" fromTop="18" />
+      <File id="B5622DB7-1628-40B3-809C-84392DE46D69/d:Raster/f:MapTileDownloader.cs" caret="5462" fromTop="13" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="6362" fromTop="0" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="23028" fromTop="0" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="22981" fromTop="21" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="22730" fromTop="14" />
+      <File id="CBDB3374-5408-4888-B93D-6F3E63E321D9/f:MapTileWriter.cs" caret="5208" fromTop="7" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="14534" fromTop="9" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="14534" fromTop="21" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="14534" fromTop="14" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="23028" fromTop="14" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="14434" fromTop="6" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="12939" fromTop="6" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="22513" fromTop="3" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="22981" fromTop="16" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:app.config" caret="2622" fromTop="11" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="616" fromTop="9" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="6182" fromTop="10" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="4194" fromTop="9" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="8300" fromTop="14" />
+      <File id="53723D5C-0DE2-490F-8AAB-7E397246445E/f:MainWindow.cs" caret="8435" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="32" />
+      <Item value="static" priority="6" />
+      <Item value="TextureBrush" priority="1" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="25" />
+      <Item value="return" priority="10" />
+      <Item value="Brushes" priority="0" />
+      <Item value="new" priority="44" />
+      <Item value="SolidBrush" priority="2" />
+      <Item value="Color" priority="10" />
+      <Item value="break" priority="17" />
+      <Item value="int" priority="40" />
+      <Item value="default" priority="1" />
+      <Item value="Bitmap" priority="5" />
+      <Item value="bitmap" priority="4" />
+      <Item value="string" priority="18" />
+      <Item value="if" priority="40" />
+      <Item value="imgIndex" priority="0" />
+      <Item value="else" priority="15" />
+      <Item value="for" priority="2" />
+      <Item value="i" priority="6" />
+      <Item value="WarpMode" priority="0" />
+      <Item value="mapBrush" priority="0" />
+      <Item value="public" priority="11" />
+      <Item value="foreach" priority="2" />
+      <Item value="in" priority="0" />
+      <Item value="_mapFeatureLayerInfos" priority="0" />
+      <Item value="info" priority="1" />
+      <Item value="null" priority="8" />
+      <Item value="layerInfo" priority="5" />
+      <Item value="layer" priority="0" />
+      <Item value="_mapFeatureLayers" priority="0" />
+      <Item value="GeoSet" priority="1" />
+      <Item value="_getSet" priority="0" />
+      <Item value="getSet" priority="0" />
+      <Item value="Font" priority="5" />
+      <Item value="font" priority="1" />
+      <Item value="GetFont" priority="0" />
+      <Item value="MapInfoFont" priority="0" />
+      <Item value="brush" priority="0" />
+      <Item value="StringFormat" priority="1" />
+      <Item value="Brush" priority="0" />
+      <Item value="MapPen" priority="0" />
+      <Item value="mapPen" priority="6" />
+      <Item value="BitmapGraphics" priority="0" />
+      <Item value="Pen" priority="2" />
+      <Item value="pen" priority="2" />
+      <Item value="HatchBrush" priority="0" />
+      <Item value="HatchStyle" priority="0" />
+      <Item value="float" priority="1" />
+      <Item value="Console" priority="3" />
+      <Item value="MapTileVectorWorker" priority="0" />
+      <Item value="frmMain" priority="1" />
+      <Item value="double" priority="3" />
+      <Item value="TileSystem" priority="1" />
+      <Item value="pt" priority="2" />
+      <Item value="zoomLevel" priority="7" />
+      <Item value="lat" priority="0" />
+      <Item value="out" priority="2" />
+      <Item value="pixelX" priority="0" />
+      <Item value="pixelY" priority="0" />
+      <Item value="minY" priority="0" />
+      <Item value="maxY" priority="1" />
+      <Item value="minX" priority="0" />
+      <Item value="this" priority="6" />
+      <Item value="Graphics" priority="0" />
+      <Item value="graphics" priority="1" />
+      <Item value="drawRect" priority="0" />
+      <Item value="MapLayer" priority="1" />
+      <Item value="GeoPoint" priority="10" />
+      <Item value="mapZoomLevel" priority="0" />
+      <Item value="picStoredMap" priority="0" />
+      <Item value="Image" priority="1" />
+      <Item value="Delegate" priority="2" />
+      <Item value="void" priority="15" />
+      <Item value="Level" priority="0" />
+      <Item value="buffer" priority="0" />
+      <Item value="image" priority="0" />
+      <Item value="pngData" priority="0" />
+      <Item value="MapDigit" priority="0" />
+      <Item value="GIS" priority="0" />
+      <Item value="Raster" priority="0" />
+      <Item value="MapTileDownloadManager" priority="1" />
+      <Item value="downloadIndex" priority="0" />
+      <Item value="Thread" priority="10" />
+      <Item value="thread" priority="0" />
+      <Item value="ThreadPriority" priority="0" />
+      <Item value="GC" priority="1" />
+      <Item value="AddMessage" priority="0" />
+      <Item value="ArrayList" priority="1" />
+      <Item value="RenderBitmap" priority="1" />
+      <Item value="GeoBounds" priority="6" />
+      <Item value="bounds" priority="3" />
+      <Item value="region" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="width" priority="2" />
+      <Item value="override" priority="0" />
+      <Item value="listener" priority="2" />
+      <Item value="base" priority="0" />
+      <Item value="sender" priority="1" />
+      <Item value="object" priority="3" />
+      <Item value="SendToBack" priority="0" />
+      <Item value="delegate" priority="1" />
+      <Item value="UpdateStatus" priority="2" />
+      <Item value="GeoSize" priority="0" />
+      <Item value="SelectedMapTileArea" priority="1" />
+      <Item value="xIndex" priority="1" />
+      <Item value="yIndex" priority="0" />
+      <Item value="destX" priority="0" />
+      <Item value="destY" priority="0" />
+      <Item value="srcWidth" priority="0" />
+      <Item value="srcHeight" priority="0" />
+      <Item value="txtX1" priority="2" />
+      <Item value="catch" priority="1" />
+      <Item value="X1" priority="1" />
+      <Item value="Math" priority="4" />
+      <Item value="X2" priority="0" />
+      <Item value="Y2" priority="0" />
+      <Item value="_rasterMap" priority="23" />
+      <Item value="Y1" priority="0" />
+      <Item value="e" priority="9" />
+      <Item value="MouseButtons" priority="0" />
+      <Item value="oldX" priority="2" />
+      <Item value="oldY" priority="1" />
+      <Item value="selectX" priority="1" />
+      <Item value="selectY" priority="1" />
+      <Item value="GeoLatLng" priority="3" />
+      <Item value="latLng" priority="1" />
+      <Item value="latLng1" priority="1" />
+      <Item value="GetZoom" priority="0" />
+      <Item value="index1" priority="3" />
+      <Item value="index2" priority="1" />
+      <Item value="DrawMapCanvas" priority="0" />
+      <Item value="InvokeRequired" priority="1" />
+      <Item value="Invoke" priority="0" />
+      <Item value="UpdateInfo" priority="0" />
+      <Item value="messsage" priority="1" />
+      <Item value="lblStatus" priority="0" />
+      <Item value="total" priority="0" />
+      <Item value="bytes" priority="0" />
+      <Item value="imageIndex" priority="0" />
+      <Item value="j" priority="0" />
+      <Item value="MapTileWriter" priority="3" />
+      <Item value="startX" priority="0" />
+      <Item value="startY" priority="0" />
+      <Item value="endX" priority="0" />
+      <Item value="endY" priority="0" />
+      <Item value="_mapTileDownloadManager" priority="2" />
+      <Item value="bool" priority="5" />
+      <Item value="true" priority="3" />
+      <Item value="FileDialog" priority="2" />
+      <Item value="fileDialog" priority="1" />
+      <Item value="mapTiledZone" priority="1" />
+      <Item value="MapTiledZone" priority="0" />
+      <Item value="Stream" priority="1" />
+      <Item value="MapTileStreamReader" priority="1" />
+      <Item value="mapTileStreamReader" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="MapConfiguration" priority="1" />
+      <Item value="openFileDialog1" priority="0" />
+      <Item value="ThreadStaticAttribute" priority="0" />
+      <Item value="downloadThread" priority="0" />
+      <Item value="ThreadStart" priority="2" />
+      <Item value="WriteToMapFile" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="lblMessage" priority="0" />
+      <Item value="CalculateHowManyTiles" priority="0" />
+      <Item value="MapZoomLevelSelected" priority="1" />
+      <Item value="false" priority="4" />
+      <Item value="Control" priority="0" />
+      <Item value="control" priority="3" />
+      <Item value="is" priority="0" />
+      <Item value="CheckBox" priority="1" />
+      <Item value="index" priority="7" />
+      <Item value="failed" priority="0" />
+      <Item value="long" priority="2" />
+      <Item value="howMayTiles" priority="0" />
+      <Item value="totalCount" priority="3" />
+      <Item value="MainWindow" priority="0" />
+      <Item value="MapServerType" priority="0" />
+      <Item value="MapTileDownloadScheduler" priority="1" />
+      <Item value="_mapTileDownloadScheduler" priority="3" />
+      <Item value="mapTileIndex" priority="6" />
+      <Item value="progressDownload" priority="1" />
+      <Item value="num" priority="1" />
+      <Item value="mainForm" priority="0" />
+      <Item value="pt2" priority="2" />
+      <Item value="pt1" priority="0" />
+      <Item value="newX" priority="1" />
+      <Item value="newY" priority="1" />
+      <Item value="newZ" priority="1" />
+      <Item value="MoveMap" priority="0" />
+      <Item value="BeginInvoke" priority="0" />
+      <Item value="DoneWithDownloading" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="MapTileIndex" priority="3" />
+      <Item value="List&lt;MapTileIndex&gt;" priority="0" />
+      <Item value="lock" priority="1" />
+      <Item value="_tileIndexList" priority="1" />
+      <Item value="ProcessTileIndex" priority="0" />
+      <Item value="_tileIndexThread" priority="1" />
+      <Item value="volatile" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="y" priority="0" />
+      <Item value="MapType" priority="7" />
+      <Item value="mtype" priority="3" />
+      <Item value="DefaultSection" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="type" priority="2" />
+      <Item value="obj" priority="0" />
+      <Item value="cboMapType" priority="1" />
+      <Item value="strType" priority="0" />
+      <Item value="_mapType" priority="2" />
+      <Item value="WebRequest" priority="1" />
+      <Item value="webRequest" priority="0" />
+      <Item value="wc" priority="0" />
+      <Item value="location" priority="0" />
+      <Item value="stream" priority="1" />
+      <Item value="totalToReceive" priority="0" />
+      <Item value="IRoutingListener" priority="0" />
+      <Item value="result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.MapBrush">
+      <Item value="Pattern" priority="0" />
+      <Item value="ForeColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Empty" priority="3" />
+      <Item value="Black" priority="0" />
+      <Item value="FromArgb" priority="1" />
+      <Item value="Green" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Bitmap">
+      <Item value="FromFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="13" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="GetPixel" priority="0" />
+      <Item value="SetPixel" priority="0" />
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="G" priority="0" />
+      <Item value="B" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Vector.GeoSet+MapFeatureLayerInfo">
+      <Item value="LayerName" priority="1" />
+      <Item value="ZoomLevel" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="CompareTo" priority="0" />
+      <Item value="StartsWith" priority="0" />
+      <Item value="Substring" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="Replace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Vector.GeoSet">
+      <Item value="GetMapMapFeatureLayerInfo" priority="0" />
+      <Item value="GetMapMapFeatureLayer" priority="0" />
+      <Item value="RemoveMapFeatureLayer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Vector.MapFeatureLayer">
+      <Item value="ZoomLevel" priority="0" />
+      <Item value="ZoomMin" priority="0" />
+      <Item value="ZoomMax" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="LayerName" priority="1" />
+      <Item value="FontColor" priority="0" />
+      <Item value="FontName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.MapTile.MapTileVectorDataSource">
+      <Item value="GetGeoSet" priority="0" />
+      <Item value="GetImage" priority="3" />
+      <Item value="ImageArray" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.MapText">
+      <Item value="GetForeColor" priority="0" />
+      <Item value="Font" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Drawing.IFont">
+      <Item value="GetNativeFont" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Vector.VectorMapAbstractCanvas">
+      <Item value="SetFont" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawString" priority="0" />
+      <Item value="Dispose" priority="0" />
+      <Item value="DrawRectangle" priority="0" />
+      <Item value="FillRegion" priority="0" />
+      <Item value="FillPolygon" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.MapPoint">
+      <Item value="SymbolType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.MapSymbol">
+      <Item value="Shape" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.MapPen">
+      <Item value="Pattern" priority="1" />
+      <Item value="Color" priority="0" />
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Pen">
+      <Item value="Brush" priority="0" />
+      <Item value="CompoundArray" priority="0" />
+      <Item value="DashPattern" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Drawing2D.HatchStyle">
+      <Item value="Horizontal" priority="0" />
+      <Item value="Vertical" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapVectorTileWriter.MapTileVectorWorker">
+      <Item value="localMapTileFileReader" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapVectorTileWriter.frmMain">
+      <Item value="localMapTileFileReader" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapDigit.GIS.TileSystem">
+      <Item value="PixelXYToLatLong" priority="0" />
+      <Item value="LatLongToPixelXY" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Geometry.GeoPoint">
+      <Item value="X" priority="4" />
+      <Item value="Y" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Geometry.GeoLatLng">
+      <Item value="Lat" priority="1" />
+      <Item value="Lng" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Raster.MapTileDownloadManager">
+      <Item value="Stop" priority="3" />
+      <Item value="Start" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Raster.RasterMap">
+      <Item value="ZoomIn" priority="0" />
+      <Item value="GetMapType" priority="2" />
+      <Item value="SelectedMapTileArea" priority="2" />
+      <Item value="PanDirection" priority="2" />
+      <Item value="SetCenter" priority="3" />
+      <Item value="GetScreenCenter" priority="1" />
+      <Item value="GetZoom" priority="7" />
+      <Item value="FromScreenPixelToLatLng" priority="0" />
+      <Item value="SetSelectedArea" priority="0" />
+      <Item value="GetCenter" priority="1" />
+      <Item value="FromLatLngToScreenPixel" priority="0" />
+      <Item value="SetMapType" priority="0" />
+      <Item value="GetDirections" priority="0" />
+      <Item value="Resize" priority="0" />
+      <Item value="SetRoutingListener" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapVectorTileWriter.frmMain">
+      <Item value="picStoredMap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="2" />
+      <Item value="Invalidate" priority="0" />
+      <Item value="InvokeRequired" priority="0" />
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Drawing.IGraphics">
+      <Item value="DrawRect" priority="0" />
+      <Item value="SetColor" priority="2" />
+      <Item value="FillRect" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.RectangleF">
+      <Item value="X" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapDigit.GIS.MapLayer">
+      <Item value="FromPixelToLatLng" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapDigit.GIS.Raster.MapTileDownloadManager">
+      <Item value="TileNotAvaiable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Drawing.IImage">
+      <Item value="GetRGB" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start" priority="3" />
+      <Item value="Priority" priority="0" />
+      <Item value="Abort" priority="2" />
+      <Item value="Suspend" priority="0" />
+      <Item value="Resume" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPriority">
+      <Item value="AboveNormal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.GC">
+      <Item value="Collect" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.BufferedGraphics">
+      <Item value="Graphics" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Geometry.GeoBounds">
+      <Item value="Intersects" priority="0" />
+      <Item value="ContainsBounds" priority="0" />
+      <Item value="ContainsPoint" priority="0" />
+      <Item value="X" priority="4" />
+      <Item value="Width" priority="2" />
+      <Item value="Height" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Geometry.GeoPolygon">
+      <Item value="GetBounds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapDigit.GIS.Raster.MapType">
+      <Item value="MAPABCCHINA" priority="7" />
+      <Item value="GOOGLECHINA" priority="2" />
+      <Item value="MICROSOFTCHINA" priority="3" />
+      <Item value="GOOGLEMAP" priority="2" />
+      <Item value="MICROSOFTMAP" priority="1" />
+      <Item value="getTileURL" priority="0" />
+      <Item value="NOKIAMAP" priority="0" />
+      <Item value="MAP_TYPE_URLS" priority="0" />
+      <Item value="MAP_TYPE_NAMES" priority="0" />
+      <Item value="GOOGLEHYBRID" priority="0" />
+      <Item value="GOOGLESATELLITE" priority="0" />
+      <Item value="GOOGLETERREN" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Raster.MapTileDownloader">
+      <Item value="SetMapDownloadingListener" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="Paint" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="InvokeRequired" priority="0" />
+      <Item value="BeginInvoke" priority="0" />
+      <Item value="Invoke" priority="0" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="0" />
+      <Item value="TryParse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MaskedTextBox">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseEventArgs">
+      <Item value="Button" priority="0" />
+      <Item value="X" priority="3" />
+      <Item value="Y" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MouseButtons">
+      <Item value="Left" priority="0" />
+      <Item value="Right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.MapTileWriter.IWritingProgressListener">
+      <Item value="Progress" priority="0" />
+      <Item value="Done" priority="0" />
+      <Item value="Equals" priority="0" />
+      <Item value="FinishWriting" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.MapTileWriter.MapTileWriter">
+      <Item value="SetWritingProgressListener" priority="1" />
+      <Item value="ZoomLevelSelected" priority="1" />
+      <Item value="WriteMapTileFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.Raster.MapTileStreamReader">
+      <Item value="AddZone" priority="0" />
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapDigit.GIS.Raster.MapConfiguration">
+      <Item value="SetParameter" priority="0" />
+      <Item value="WORKER_THREAD_NUMBER" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.MainWindow">
+      <Item value="Controls" priority="0" />
+      <Item value="_mapTileDownloadScheduler" priority="0" />
+      <Item value="doneWithDownloading" priority="0" />
+      <Item value="cboMapType" priority="0" />
+      <Item value="btnReset_Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ProgressBar">
+      <Item value="Value" priority="2" />
+      <Item value="Maximum" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapDigit.MapServerType">
+      <Item value="getTileInternalURL" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.MapTileDownloadScheduler">
+      <Item value="AddToTaskList" priority="0" />
+      <Item value="AddMessage" priority="0" />
+      <Item value="stopManager" priority="1" />
+      <Item value="DownloadedCount" priority="0" />
+      <Item value="Done" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="0" />
+      <Item value="Clear" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.MapTileWriter.MapTileIndex">
+      <Item value="XIndex" priority="1" />
+      <Item value="YIndex" priority="1" />
+      <Item value="ZoomLevel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.AppSettingsSection">
+      <Item value="Settings" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.KeyValueConfigurationCollection">
+      <Item value="AllKeys" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.KeyValueConfigurationElement">
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Clear" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="0" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="OpenRead" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Length" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapDigit.GIS.MapDirection">
+      <Item value="GetBound" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

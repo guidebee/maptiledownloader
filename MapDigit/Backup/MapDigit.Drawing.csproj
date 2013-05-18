@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C0612538-19EE-4961-B737-BA13C1BE4AC6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MapDigit.Drawing</RootNamespace>
+    <AssemblyName>drawing</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Brush.cs" />
+    <Compile Include="Color.cs" />
+    <Compile Include="Geometry\AffineTransform.cs" />
+    <Compile Include="Geometry\Arc.cs" />
+    <Compile Include="Geometry\ArcIterator.cs" />
+    <Compile Include="Geometry\Area.cs" />
+    <Compile Include="Geometry\AreaOp.cs" />
+    <Compile Include="Geometry\ChainEnd.cs" />
+    <Compile Include="Geometry\Crossings.cs" />
+    <Compile Include="Geometry\CubicCurve.cs" />
+    <Compile Include="Geometry\CubicIterator.cs" />
+    <Compile Include="Geometry\Curve.cs" />
+    <Compile Include="Geometry\CurveLink.cs" />
+    <Compile Include="Geometry\Dimension.cs" />
+    <Compile Include="Geometry\Edge.cs" />
+    <Compile Include="Geometry\Ellipse.cs" />
+    <Compile Include="Geometry\EllipseIterator.cs" />
+    <Compile Include="Geometry\FlatteningPathIterator.cs" />
+    <Compile Include="Geometry\IllegalPathStateException.cs" />
+    <Compile Include="Geometry\Line.cs" />
+    <Compile Include="Geometry\LineIterator.cs" />
+    <Compile Include="Geometry\MathFP.cs" />
+    <Compile Include="Geometry\NoninvertibleTransformException.cs" />
+    <Compile Include="Geometry\Order0.cs" />
+    <Compile Include="Geometry\Order1.cs" />
+    <Compile Include="Geometry\Order2.cs" />
+    <Compile Include="Geometry\Order3.cs" />
+    <Compile Include="Geometry\Path.cs" />
+    <Compile Include="Geometry\PathIterator.cs" />
+    <Compile Include="Geometry\IShape.cs" />
+    <Compile Include="Geometry\Point.cs" />
+    <Compile Include="Geometry\Polygon.cs" />
+    <Compile Include="Geometry\Polyline.cs" />
+    <Compile Include="Geometry\QuadCurve.cs" />
+    <Compile Include="Geometry\QuadIterator.cs" />
+    <Compile Include="Geometry\Rectangle.cs" />
+    <Compile Include="Geometry\RectangularShape.cs" />
+    <Compile Include="Geometry\RectIterator.cs" />
+    <Compile Include="Geometry\RoundRectangle.cs" />
+    <Compile Include="Geometry\RoundRectIterator.cs" />
+    <Compile Include="Graphics2D.cs" />
+    <Compile Include="LinearGradientBrush.cs" />
+    <Compile Include="Pen.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadialGradientBrush.cs" />
+    <Compile Include="SolidBrush.cs" />
+    <Compile Include="TextureBrush.cs" />
+    <Compile Include="Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MapDigit.DrawingFP\MapDigit.DrawingFP.csproj">
+      <Project>{4DDAC81A-012E-46E0-8760-42E65A2BCD26}</Project>
+      <Name>MapDigit.DrawingFP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MapDigit.Util\MapDigit.Util.csproj">
+      <Project>{80910357-0D91-47CF-B0C4-6D7678003687}</Project>
+      <Name>MapDigit.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>if /I "$(ConfigurationName)" == "Release" Eazfuscator.NET.exe "$(TargetPath)" --msbuild-project-path "$(ProjectPath)" --msbuild-project-configuration "$(ConfigurationName)" --msbuild-project-platform "$(PlatformName)" -n --newline-flush</PostBuildEvent>
+  </PropertyGroup>
+</Project>

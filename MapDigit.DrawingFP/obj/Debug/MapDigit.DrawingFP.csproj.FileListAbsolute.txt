@@ -1,0 +1,12 @@
+C:\temp\DotNetMapDigit\MapDigit.DrawingFP\bin\Debug\drawingcore.dll.config
+C:\temp\DotNetMapDigit\MapDigit.DrawingFP\bin\Debug\drawingcore.dll
+C:\temp\DotNetMapDigit\MapDigit.DrawingFP\bin\Debug\drawingcore.pdb
+C:\temp\DotNetMapDigit\MapDigit.DrawingFP\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\DotNetMapDigit\MapDigit.DrawingFP\obj\Debug\drawingcore.dll
+C:\temp\DotNetMapDigit\MapDigit.DrawingFP\obj\Debug\drawingcore.pdb
+C:\github\maptiledownloader\MapDigit.DrawingFP\bin\Debug\drawingcore.dll.config
+C:\github\maptiledownloader\MapDigit.DrawingFP\bin\Debug\drawingcore.dll
+C:\github\maptiledownloader\MapDigit.DrawingFP\bin\Debug\drawingcore.pdb
+C:\github\maptiledownloader\MapDigit.DrawingFP\obj\Debug\MapDigit.DrawingFP.csprojResolveAssemblyReference.cache
+C:\github\maptiledownloader\MapDigit.DrawingFP\obj\Debug\drawingcore.dll
+C:\github\maptiledownloader\MapDigit.DrawingFP\obj\Debug\drawingcore.pdb

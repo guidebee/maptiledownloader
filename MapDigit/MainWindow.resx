@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;chk2.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnZoomIn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;chk5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="chk13.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="picMapCanvas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 21</value>
+  </data>
+  <data name="btnServer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="chk17.Text" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>X2</value>
+  </data>
+  <data name="&gt;&gt;chk7.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="chk9.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lblMapType.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chk7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="&gt;&gt;chk5.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 19</value>
+  </data>
+  <data name="txtX2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 27</value>
+  </data>
+  <data name="&gt;&gt;btnStop.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chk14.Text" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btnExit.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cboMapType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>931, 532</value>
+  </data>
+  <data name="&gt;&gt;chk16.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblMapType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 17</value>
+  </data>
+  <data name="&gt;&gt;chk9.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="btnGo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1077, 140</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chk10.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="chk15.Text" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;chk14.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtAddress.Name" xml:space="preserve">
+    <value>txtAddress</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;chk9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnZoomIn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>853, 97</value>
+  </data>
+  <data name="&gt;&gt;lblStatus.Name" xml:space="preserve">
+    <value>lblStatus</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnZoomIn.Name" xml:space="preserve">
+    <value>btnZoomIn</value>
+  </data>
+  <data name="chk11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 93</value>
+  </data>
+  <data name="btnServer.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;chk12.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnZoomIn.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="chk12.Text" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1188, 833</value>
+  </data>
+  <data name="&gt;&gt;txtY1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chk8.Name" xml:space="preserve">
+    <value>chk8</value>
+  </data>
+  <data name="&gt;&gt;chk15.Name" xml:space="preserve">
+    <value>chk15</value>
+  </data>
+  <data name="progressDownload.Size" type="System.Drawing.Size, System.Drawing">
+    <value>309, 29</value>
+  </data>
+  <data name="&gt;&gt;chk10.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnLeft.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnExit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1101, 739</value>
+  </data>
+  <data name="chk13.Text" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;chk3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>28, 19</value>
+  </data>
+  <data name="&gt;&gt;chk14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLeft.Name" xml:space="preserve">
+    <value>btnLeft</value>
+  </data>
+  <data name="&gt;&gt;btnGo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboMapType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chk15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 122</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="chk10.Text" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="chk2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="chk4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;chk10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnStop.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnDown.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnUp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnReset.Text" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="chk8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtX1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 27</value>
+  </data>
+  <data name="btnGo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="progressDownload.Location" type="System.Drawing.Point, System.Drawing">
+    <value>856, 563</value>
+  </data>
+  <data name="&gt;&gt;lblMapType.Name" xml:space="preserve">
+    <value>lblMapType</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cboMapType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>234, 25</value>
+  </data>
+  <data name="btnLoad.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="chk11.Text" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;btnZoomOut.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtX2.Mask" xml:space="preserve">
+    <value>999999</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>28, 19</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainWindow</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 72</value>
+  </data>
+  <data name="chk4.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="txtAddress.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblMessage.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;chk3.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnLoad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="chk9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 64</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAAAGACoDAAAFgAAACgAAAAgAAAAQAAAAAEAGAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/lSA/lSBBQUEAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAA/lSA84QA84QA/lSBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCQkI/lSA84QA8
+        4QA84QA84QA/lSBCQkIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/lSA84QA84QA84QA84QA84QA84QA/lSBEREQAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDQ0M/
+        lSA84QA84QA84QA84QA84QA84QA84QA84QA/lSBCQkIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAA3Nzc/Pz9EREREREREREREREQ/lSA84QA84QA84QA84QA84QA84QA84QA84QA8
+        4QA84QA/lSBDQ0NERERDQ0NERERCQkJCQkIAAAAAAAAAAAAAAAAAAAAAAAAAAAA5OTlCgis9xgs84QA8
+        4QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA9xgtC
+        gitCQkIAAAAAAAAAAAAAAAAAAAAAAABAQEA9xgs84QA84QA84QA84QA84QA84QBf5y7I97jy/e7///4A
+        AAAAAAD+//7v/eu+9apX5SM84QA84QA84QA84QA84QA84QA9xgtBQUEAAAAAAAAAAAAAAAAAAAAAAABE
+        REQ84QA84QA84QA84QA84QBO4xfY+cz9//3k+9sAAAB/7FfU+Me79Kee8ID+//7n+9/9//3L97tF4ww8
+        4QA84QA84QA84QA84QBEREQAAAAAAAAAAAAAAAAAAAAAAABCQkI84QA84QA84QA84QBn6Dj5/vfe+tRK
+        4xLI97jU+Mc84QDU+Me79Kc84QDn+9+t85RX5SPr/OXz/e9X5SM84QA84QA84QA84QBDQ0MAAAAAAAAA
+        AAAAAAAAAAAAAABCQkI84QA84QA84QBb5Sj8//v0/fFO4xdO4xf8//tS5R084QDU+Me79Kc84QBw6UP6
+        /vlA4QZb5Sj6/vn4/vZK4xI84QA84QA84QBEREQAAAAAAAAAAAAAAAAAAAAAAABDQ0M84QA84QA84QD1
+        /fK+9aq+9ar6/vnu/OnU+Mc84QA84QDU+Me79Kc84QA84QDo/OHo/OH5/vez85zS+MTl+9084QA84QA8
+        4QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABEREQ84QA84QCt85Tt/Oc84QA84QBO4xf+//74/vb7/vrn+9/z
+        /e/v/evq/OP8//v3/vX6/vlF4ww84QBA4Qb5/veK7WU84QA84QBEREQAAAAAAAAAAAAAAAAAAAAAAABD
+        Q0M84QA84QD6/vl/7Fc84QA84QCG7GHz/e884QBr6D629KDz/e/r/OWw85hj5zM84QD8/vtj5zM84QA8
+        4QCk8Yjv/es84QA84QBEREQAAAAAAAAAAAAAAAAAAAAAAABDQ0M84QB66lL5/vc84QA84QA84QDL97vI
+        97g84QA84QA84QDU+Me79Kc84QA84QA84QDe+tSt85Q84QA84QBA4Qb+//1X5SM84QBDQ0MAAAAAAAAA
+        AAAAAAAAAAAAAABEREQ84QC+9arc+dE84QA84QA84QDu/OmQ7m484QA84QA84QDU+Me79Kc84QA84QA8
+        4QCz85zc+dE84QA84QA84QDr/OWh8IQ84QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABDQ0M84QDU+MfB9a48
+        4QA84QA84QD6/vhn6Dg84QA84QA84QDU+Me79Kc84QA84QA84QCN7Wru/Ok84QA84QA84QDW+cnD9rE8
+        4QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABDQ0M84QDg+tYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADL97s84QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABD
+        Q0M84QDU+MfB9a484QA84QA84QD5/vdn6Dg84QA84QA84QDU+Me79Kc84QA84QA84QCN7Wrt/Oc84QA8
+        4QA84QDY+czD9rE84QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABDQ0M84QC+9arc+dE84QA84QA84QDr/OWQ
+        7m484QA84QA84QDU+Me79Kc84QA84QA84QCw85jY+cw84QA84QA84QDr/OWh8IQ84QBEREQAAAAAAAAA
+        AAAAAAAAAAAAAABDQ0M84QB66lL5/vc84QA84QA84QDI97jI97g84QA84QA84QDU+Me79Kc84QA84QA8
+        4QDe+tSt85Q84QA84QBF4wz+//1X5SM84QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABEREQ84QA84QD6/vh/
+        7Fc84QA84QB66lLy/e484QBr6D629KDz/e/r/OWw85hj5zM84QD7/vpX5SM84QA84QCn8ozv/es84QA8
+        4QBEREQAAAAAAAAAAAAAAAAAAAAAAABEREQ84QA84QCr8pDu/Ok84QA84QBO4xf+//74/vbz/e/g+tbv
+        /evq/OPg+tb4/vb3/vX6/vlF4ww84QBA4Qb5/veG7GE84QA84QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABE
+        REQ84QA84QA84QDz/e++9aq+9ar8/vvy/e7Q+ME84QA84QDU+Me79Kc84QA84QDl+93v/ev6/vmz85zS
+        +MTk+9s84QA84QA84QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABDQ0M84QA84QA84QBb5Sj8//v3/vVX5SNS
+        5R38//tO4xc84QDU+Me79Kc84QBn6Dj8/vtA4QZn6Dj8/vv3/vVK4xI84QA84QA84QBDQ0MAAAAAAAAA
+        AAAAAAAAAAAAAABEREQ84QA84QA84QA84QBn6Dj5/vfg+tZK4xLQ+MHU+Mc84QDU+Me79Kc84QDn+9+w
+        85hX5SPr/OXz/e9X5SM84QA84QA84QA84QBEREQAAAAAAAAAAAAAAAAAAAAAAABEREQ84QA84QA84QA8
+        4QA84QBK4xLW+cn9//3g+tb+//566lLU+Me79Keb73z+//7k+9v9//3I97hA4QY84QA84QA84QA84QA8
+        4QBDQ0MAAAAAAAAAAAAAAAAAAAAAAABDQ0M84QA84QA84QA84QA84QA84QA84QBf5y7I97jy/e7+//4A
+        AAAAAAD9//3v/eu+9apX5SM84QA84QA84QA84QA84QA84QA84QBFRUUAAAAAAAAAAAAAAAAAAAAAAABC
+        QkI9xgs84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA8
+        4QA84QA84QA84QA9xgtBQUEAAAAAAAAAAAAAAAAAAAAAAABFRUVCgis9xgs84QA84QA84QA84QA84QA8
+        4QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA84QA9xgtCgis3NzcAAAAAAAAA
+        AAAAAAAAAAAAAAAAAABGRkZCQkJDQ0NCQkJERERDQ0NCQkJDQ0NERERERERERERDQ0NDQ0NDQ0NDQ0ND
+        Q0NDQ0NDQ0NDQ0NEREREREREREQ/Pz84ODgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAD//j////wf///wD///8Af//8AD//AAAA/gAAAH4AGAB+AEAAfgAAAH4AAAB+AA
+        AAfgAAAH4AAAB+AAAAfgAAAH4AAAB+P//8fgAAAH4AAAB+AAAAfgAAAH4AAAB+AAAAfgAAAH4AAAB+AA
+        AAfgAYAH4AAAB+AAAAfwAAAP/////w==
+</value>
+  </data>
+  <data name="picMapCanvas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>768, 768</value>
+  </data>
+  <data name="&gt;&gt;chk8.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;chk7.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="cboMapType.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="txtY1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnDown.Text" xml:space="preserve">
+    <value>Down</value>
+  </data>
+  <data name="&gt;&gt;btnUp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnLoad.Text" xml:space="preserve">
+    <value>Load File</value>
+  </data>
+  <data name="btnUp.Text" xml:space="preserve">
+    <value>Up</value>
+  </data>
+  <data name="lblMapType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>857, 535</value>
+  </data>
+  <data name="txtMessage.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt</value>
+  </data>
+  <data name="&gt;&gt;chk14.Name" xml:space="preserve">
+    <value>chk14</value>
+  </data>
+  <data name="&gt;&gt;chk10.Name" xml:space="preserve">
+    <value>chk10</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 19</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Name" xml:space="preserve">
+    <value>btnStart</value>
+  </data>
+  <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 36</value>
+  </data>
+  <data name="btnUp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="progressDownload.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;picMapCanvas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnLeft.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="&gt;&gt;chk11.Name" xml:space="preserve">
+    <value>chk11</value>
+  </data>
+  <data name="chk14.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="lblMessage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 17</value>
+  </data>
+  <data name="chk16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="chk5.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;chk15.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnStart.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnUp.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnZoomOut.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;chk17.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnGo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="txtAddress.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;txtMessage.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="chk17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="chk13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 93</value>
+  </data>
+  <data name="&gt;&gt;btnUp.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;btnReset.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;chk11.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;chk9.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="chk17.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="lblMessage.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;btnServer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtX1.Mask" xml:space="preserve">
+    <value>999999</value>
+  </data>
+  <data name="&gt;&gt;chk13.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="chk14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="btnStop.Text" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="txtAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>852, 147</value>
+  </data>
+  <data name="chk7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>818, 809</value>
+  </data>
+  <data name="&gt;&gt;btnLeft.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblMessage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>856, 506</value>
+  </data>
+  <data name="btnGo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;chk17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 109</value>
+  </data>
+  <data name="chk15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="chk2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnZoomIn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnRight.Name" xml:space="preserve">
+    <value>btnRight</value>
+  </data>
+  <data name="chk5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 35</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;btnDown.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 107</value>
+  </data>
+  <data name="chk12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtMessage.Name" xml:space="preserve">
+    <value>txtMessage</value>
+  </data>
+  <data name="chk8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 64</value>
+  </data>
+  <data name="&gt;&gt;cboMapType.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btnExit.Text" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Name" xml:space="preserve">
+    <value>btnExit</value>
+  </data>
+  <data name="chk4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 35</value>
+  </data>
+  <data name="chk13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="&gt;&gt;btnZoomIn.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="chk4.Text" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnGo.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;lblMessage.Name" xml:space="preserve">
+    <value>lblMessage</value>
+  </data>
+  <data name="&gt;&gt;lblMapType.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="chk8.Text" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="txtAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>218, 24</value>
+  </data>
+  <data name="txtX2.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chk6.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;chk6.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="btnDown.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;progressDownload.Name" xml:space="preserve">
+    <value>progressDownload</value>
+  </data>
+  <data name="chk10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="chk12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 93</value>
+  </data>
+  <data name="&gt;&gt;btnServer.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtX1.Name" xml:space="preserve">
+    <value>txtX1</value>
+  </data>
+  <data name="&gt;&gt;txtMessage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>965, 54</value>
+  </data>
+  <data name="&gt;&gt;txtX2.Name" xml:space="preserve">
+    <value>txtX2</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Map Tile Selector</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>314, 158</value>
+  </data>
+  <data name="&gt;&gt;btnServer.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="chk6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="txtY1.Mask" xml:space="preserve">
+    <value>999999</value>
+  </data>
+  <data name="chk4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;txtX2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblMapType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnReset.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtMessage.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="txtX1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="chk8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="chk11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 23</value>
+  </data>
+  <data name="&gt;&gt;picMapCanvas.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblMapType.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txtX2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>Map Level Selector</value>
+  </data>
+  <data name="&gt;&gt;progressDownload.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chk16.Name" xml:space="preserve">
+    <value>chk16</value>
+  </data>
+  <data name="btnRight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1078, 54</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>853, 336</value>
+  </data>
+  <data name="&gt;&gt;chk2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chk16.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="chk8.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;chk13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnExit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="chk3.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="chk16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 122</value>
+  </data>
+  <data name="btnStart.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>313, 147</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;chk14.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;cboMapType.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;txtY1.Name" xml:space="preserve">
+    <value>txtY1</value>
+  </data>
+  <data name="btnStop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="label6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>X1</value>
+  </data>
+  <data name="&gt;&gt;txtY2.Name" xml:space="preserve">
+    <value>txtY2</value>
+  </data>
+  <data name="btnLoad.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;chk12.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Name" xml:space="preserve">
+    <value>btnReset</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnStop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>929, 739</value>
+  </data>
+  <data name="chk5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="lblMapType.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;lblMessage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chk3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="chk9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 23</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.Name" xml:space="preserve">
+    <value>btnLoad</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 72</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>852, 183</value>
+  </data>
+  <data name="chk16.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="txtMessage.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picMapCanvas.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="chk2.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtX1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnStop.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtMessage.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="&gt;&gt;chk16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnUp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnUp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>965, 11</value>
+  </data>
+  <data name="txtY1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 107</value>
+  </data>
+  <data name="&gt;&gt;chk4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chk9.Name" xml:space="preserve">
+    <value>chk9</value>
+  </data>
+  <data name="cboMapType.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;chk4.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;btnRight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chk11.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnRight.Text" xml:space="preserve">
+    <value>Right</value>
+  </data>
+  <data name="btnStart.Text" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblStatus.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="chk11.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnLeft.Location" type="System.Drawing.Point, System.Drawing">
+    <value>852, 54</value>
+  </data>
+  <data name="&gt;&gt;chk12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnZoomOut.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnStart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 37</value>
+  </data>
+  <data name="btnLeft.Text" xml:space="preserve">
+    <value>Left</value>
+  </data>
+  <data name="&gt;&gt;txtY2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chk6.Name" xml:space="preserve">
+    <value>chk6</value>
+  </data>
+  <data name="lblStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 17</value>
+  </data>
+  <data name="&gt;&gt;txtY1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtAddress.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;picMapCanvas.Name" xml:space="preserve">
+    <value>picMapCanvas</value>
+  </data>
+  <data name="btnGo.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chk5.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btnGo.Name" xml:space="preserve">
+    <value>btnGo</value>
+  </data>
+  <data name="txtMessage.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="chk5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtY2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 27</value>
+  </data>
+  <data name="chk15.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="chk3.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chk8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnZoomIn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnZoomOut.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1077, 97</value>
+  </data>
+  <data name="&gt;&gt;chk2.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 12</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 36</value>
+  </data>
+  <data name="chk7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 64</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;btnLeft.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnZoomOut.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="btnZoomOut.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="chk2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 35</value>
+  </data>
+  <data name="&gt;&gt;btnZoomOut.Name" xml:space="preserve">
+    <value>btnZoomOut</value>
+  </data>
+  <data name="&gt;&gt;chk6.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>StartIndex</value>
+  </data>
+  <data name="btnLeft.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;chk5.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="btnLoad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>852, 11</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;chk17.Name" xml:space="preserve">
+    <value>chk17</value>
+  </data>
+  <data name="btnDown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>965, 97</value>
+  </data>
+  <data name="&gt;&gt;chk13.Name" xml:space="preserve">
+    <value>chk13</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 19</value>
+  </data>
+  <data name="&gt;&gt;chk12.Name" xml:space="preserve">
+    <value>chk12</value>
+  </data>
+  <data name="chk14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 122</value>
+  </data>
+  <data name="&gt;&gt;btnServer.Name" xml:space="preserve">
+    <value>btnServer</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chk15.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="chk14.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnUp.Name" xml:space="preserve">
+    <value>btnUp</value>
+  </data>
+  <data name="btnServer.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="btnRight.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="chk7.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblStatus.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;chk17.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;txtX1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lblMapType.Text" xml:space="preserve">
+    <value>MapType</value>
+  </data>
+  <data name="&gt;&gt;txtY2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chk11.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chk7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtX1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnStop.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="picMapCanvas.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="&gt;&gt;chk13.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;btnRight.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnServer.Text" xml:space="preserve">
+    <value>Map Server</value>
+  </data>
+  <data name="btnRight.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="chk2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;txtX2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chk10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 93</value>
+  </data>
+  <data name="btnStop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 37</value>
+  </data>
+  <data name="&gt;&gt;chk7.Name" xml:space="preserve">
+    <value>chk7</value>
+  </data>
+  <data name="txtY1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 27</value>
+  </data>
+  <data name="chk9.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="chk10.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Guidebee Map Tile Downloader http://www.guidebee.biz</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Y2</value>
+  </data>
+  <data name="chk17.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblMessage.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="txtY2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>196, 107</value>
+  </data>
+  <data name="&gt;&gt;btnRight.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblMessage.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtX2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>196, 69</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtY2.Mask" xml:space="preserve">
+    <value>999999</value>
+  </data>
+  <data name="chk17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 122</value>
+  </data>
+  <data name="&gt;&gt;btnStop.Name" xml:space="preserve">
+    <value>btnStop</value>
+  </data>
+  <data name="chk7.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="txtMessage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>314, 135</value>
+  </data>
+  <data name="chk12.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="txtX1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 69</value>
+  </data>
+  <data name="&gt;&gt;chk15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtAddress.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtY1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btnDown.Name" xml:space="preserve">
+    <value>btnDown</value>
+  </data>
+  <data name="&gt;&gt;chk2.Name" xml:space="preserve">
+    <value>chk2</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="btnExit.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="txtY2.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnServer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1079, 11</value>
+  </data>
+  <data name="&gt;&gt;txtY2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLoad.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="chk6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 64</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 19</value>
+  </data>
+  <data name="btnZoomOut.Text" xml:space="preserve">
+    <value>Zoom Out</value>
+  </data>
+  <data name="&gt;&gt;chk6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnDown.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btnGo.Text" xml:space="preserve">
+    <value>Go</value>
+  </data>
+  <data name="btnZoomIn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>EndIndex</value>
+  </data>
+  <data name="chk13.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Y1</value>
+  </data>
+  <data name="chk16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chk15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chk9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnStart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>852, 739</value>
+  </data>
+  <data name="chk6.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;chk4.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btnReset.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="&gt;&gt;chk3.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="txtMessage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>853, 598</value>
+  </data>
+  <data name="btnDown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="&gt;&gt;lblMessage.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;progressDownload.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;chk4.Name" xml:space="preserve">
+    <value>chk4</value>
+  </data>
+  <data name="&gt;&gt;progressDownload.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="chk10.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;chk8.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="chk6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="lblMapType.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnZoomOut.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="chk12.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chk3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnRight.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 37</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnLeft.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;chk3.Name" xml:space="preserve">
+    <value>chk3</value>
+  </data>
+  <data name="&gt;&gt;chk11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnStop.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;cboMapType.Name" xml:space="preserve">
+    <value>cboMapType</value>
+  </data>
+  <data name="btnZoomIn.Text" xml:space="preserve">
+    <value>Zoom In</value>
+  </data>
+  <data name="btnExit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 37</value>
+  </data>
+  <data name="chk3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 35</value>
+  </data>
+  <data name="btnStart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.5pt</value>
+  </data>
+  <data name="chk16.Text" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;chk5.Name" xml:space="preserve">
+    <value>chk5</value>
+  </data>
+  <data name="lblStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>853, 786</value>
+  </data>
+  <data name="&gt;&gt;txtAddress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Chinese (Simplified)</value>
+  </metadata>
+</root>

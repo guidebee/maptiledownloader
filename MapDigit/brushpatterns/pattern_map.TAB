@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 6
+    row Smallint ;
+    col Smallint ;
+    r Smallint ;
+    g Smallint ;
+    b Smallint ;
+    cod Integer ;

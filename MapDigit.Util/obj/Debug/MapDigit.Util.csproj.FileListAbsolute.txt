@@ -1,0 +1,12 @@
+C:\temp\DotNetMapDigit\MapDigit.Util\bin\Debug\lang.dll.config
+C:\temp\DotNetMapDigit\MapDigit.Util\bin\Debug\lang.dll
+C:\temp\DotNetMapDigit\MapDigit.Util\bin\Debug\lang.pdb
+C:\temp\DotNetMapDigit\MapDigit.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\DotNetMapDigit\MapDigit.Util\obj\Debug\lang.dll
+C:\temp\DotNetMapDigit\MapDigit.Util\obj\Debug\lang.pdb
+C:\github\maptiledownloader\MapDigit.Util\bin\Debug\lang.dll.config
+C:\github\maptiledownloader\MapDigit.Util\bin\Debug\lang.dll
+C:\github\maptiledownloader\MapDigit.Util\bin\Debug\lang.pdb
+C:\github\maptiledownloader\MapDigit.Util\obj\Debug\MapDigit.Util.csprojResolveAssemblyReference.cache
+C:\github\maptiledownloader\MapDigit.Util\obj\Debug\lang.dll
+C:\github\maptiledownloader\MapDigit.Util\obj\Debug\lang.pdb

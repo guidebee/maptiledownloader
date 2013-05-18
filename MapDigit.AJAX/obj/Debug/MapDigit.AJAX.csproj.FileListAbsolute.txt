@@ -1,0 +1,16 @@
+C:\temp\DotNetMapDigit\MapDigit.AJAX\bin\Debug\network.dll.config
+C:\temp\DotNetMapDigit\MapDigit.AJAX\bin\Debug\network.dll
+C:\temp\DotNetMapDigit\MapDigit.AJAX\bin\Debug\network.pdb
+C:\temp\DotNetMapDigit\MapDigit.AJAX\bin\Debug\lang.dll
+C:\temp\DotNetMapDigit\MapDigit.AJAX\bin\Debug\lang.pdb
+C:\temp\DotNetMapDigit\MapDigit.AJAX\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\DotNetMapDigit\MapDigit.AJAX\obj\Debug\network.dll
+C:\temp\DotNetMapDigit\MapDigit.AJAX\obj\Debug\network.pdb
+C:\github\maptiledownloader\MapDigit.AJAX\bin\Debug\network.dll.config
+C:\github\maptiledownloader\MapDigit.AJAX\bin\Debug\network.dll
+C:\github\maptiledownloader\MapDigit.AJAX\bin\Debug\network.pdb
+C:\github\maptiledownloader\MapDigit.AJAX\bin\Debug\lang.dll
+C:\github\maptiledownloader\MapDigit.AJAX\bin\Debug\lang.pdb
+C:\github\maptiledownloader\MapDigit.AJAX\obj\Debug\MapDigit.AJAX.csprojResolveAssemblyReference.cache
+C:\github\maptiledownloader\MapDigit.AJAX\obj\Debug\network.dll
+C:\github\maptiledownloader\MapDigit.AJAX\obj\Debug\network.pdb
