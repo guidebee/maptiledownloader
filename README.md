@@ -8,9 +8,7 @@ Also it can support download map tiles from any customerized map server.
 Sample configuration file 
 
 
-<?xml version="1.0" encoding="utf-8"?>
-<configuration>
-  <appSettings>
+
     <add key="GOOGLEMAP" value="http://mt{GOOGLE_DIGIT}.google.com/vt/lyrs=m@112#hl=en#x={X}#y={Y}#z={ZOOM}#s={GALILEO}" />
     <!--<add key="GOOGLESATELLITE" value="http://khm{GOOGLE_DIGIT}.google.com/kh/v=58#x={X}#y={Y}#z={ZOOM}#s={GALILEO}" />
     <add key="GOOGLEHYBRID" value="http://mt{GOOGLE_DIGIT}.google.com/vt/lyrs=h@112#hl=en#x={X}#y={Y}#z={ZOOM}#s={GALILEO}" />-->
@@ -32,5 +30,4 @@ Sample configuration file
     <add key="OSMAMAP" value="http://tah.openstreetmap.org/Tiles/tile/{ZOOM}/{X}/{Y}.png" />
     <add key="MAPABCCHINA" value="http://emap{GOOGLE_DIGIT}.mapabc.com/mapabc/maptile?v=w2.99#x={X}#y={Y}#zoom={OAM_ZOOM}" />
     
-  </appSettings>
-</configuration>
+
